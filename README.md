@@ -1,4 +1,4 @@
-#  About Me:
+##  About Me:
 I'm a passionate Information Science student interested in building software and exploring emerging  technologies. I enjoy learning, building, and solving real-world problems through code. 
 
 
